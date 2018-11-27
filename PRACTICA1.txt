@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>La meva primera pràctica</title>
+		<meta name="author" content="Oriol Sayeras">
+		<meta name="description" content="Primer 10 de Smx2">
+		<meta name="keywords" content="Smx2 Educem_net>
+		<meta charset="utf-8>
+		<link rel="shortcut icon" a href="http://educem.com/wp-content/uploads/2015/02/Logo_educem-01.png">
+	</head>
+	<body>
+		<header>
+			<h1>Títol per la meva primera pràctica de M8-UF5</h1>
+			<h2 align="center">Els títols van definits en una secció de capçelera<h2>
+			<h3 align="right">I aquests tres titols estàn aliniats diferent</h2>
+		</header>
+		<hr>
+		<nav>
+			<p>Això s'ha de definir dins d'una secció de navegació</p>
+			<p>i com es pot apreciar hem separat les seccions amb un element hr</p>
+		</nav>
+		<hr>
+		<aside>
+			<b><i>Secció de columna en cursiva i negrita</b></i>
+		</aside>
+		<hr>
+		<section>
+			<code>Això està dins d'una secció principal (text codificat)<code>
+		</section>
+		<hr>
+		<article>
+			<p>Secció de tipus article</p>
+			<p>Primer pàrraf</p>
+			<p align="center">Segon pàrraf (centrat)</p>
+			<p>Tercer pàrraf separat per un element</p>
+		</article>
+		<hr>
+		<footer align="center">
+			<p>Aquesta secció ha de ser un peu de pàgina</p>
+			<a href="http://educem.com">Això és un enllaç al web de l'educem</a>
+		</footer>
+		<!-- 0110110001100101011001110110111101101110 --> 
+	</body>
+</html>
